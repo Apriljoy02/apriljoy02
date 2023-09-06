@@ -7,7 +7,7 @@
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apriljoy02)](https://github.com/apriljoy02/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apriljoy02)](https://github.com/apriljoy02/github-readme-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
