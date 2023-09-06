@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm April!</h1>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
-### Hi there 👋, April
-#### Web developer
-Learning Software Development
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -24,7 +21,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Apriljoy02)  
 
-![Profile views](https://gpvc.arturio.dev/Apriljoy02)  
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
