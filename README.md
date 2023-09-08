@@ -3,7 +3,6 @@
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apriljoy02&label=Profile%20views&color=0e75b6&style=flat" alt="apriljoy02" /> </p>
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🤔 I’m looking for help with ReactJS 
 
